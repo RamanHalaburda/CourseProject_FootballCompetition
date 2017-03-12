@@ -1,0 +1,13 @@
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\Вика\Football_competition\Football_competition\obj\Debug\Football_competition.Form1.resources
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\Вика\Football_competition\Football_competition\obj\Debug\Football_competition.Properties.Resources.resources
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\Вика\Football_competition\Football_competition\obj\Debug\Football_competition.csproj.GenerateResource.Cache
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\Вика\Football_competition\Football_competition\bin\Debug\Football_competition.exe.config
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\Вика\Football_competition\Football_competition\bin\Debug\Football_competition.exe
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\Вика\Football_competition\Football_competition\bin\Debug\Football_competition.pdb
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\Вика\Football_competition\Football_competition\bin\Debug\Oracle.DataAccess.dll
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\Вика\Football_competition\Football_competition\obj\Debug\Football_competition.exe
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\Вика\Football_competition\Football_competition\obj\Debug\Football_competition.pdb
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\Вика\Football_competition\Football_competition\obj\Debug\Football_competition.csprojResolveAssemblyReference.cache
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Вика\Football_competition\Football_competition\bin\Debug\Football_competition.exe.config
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Вика\Football_competition\Football_competition\obj\Debug\Football_competition.exe
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\Вика\Football_competition\Football_competition\obj\Debug\Football_competition.pdb
